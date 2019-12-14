@@ -1,0 +1,5 @@
+.DS_Store
+.idea
+venv
+.ipynb_checkpoints
+module-3/lab-nlp/your-code/emotions.csv

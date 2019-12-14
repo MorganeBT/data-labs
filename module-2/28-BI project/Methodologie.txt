@@ -1,0 +1,10 @@
+1.Choix du dataset
+-sujet que lon connait à minima
+-au moins 1000 lignes
+-données structurées
+-kaggle, regarder les notations du set
+
+2.Problèmatique générale du travail
+3.Enumérer toutes les questions qui permettent de répondre à cette problématique
+4.Outils statistiques étude de corrélation
+5.Storytelling= visualization et commentaires

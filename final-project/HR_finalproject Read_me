@@ -1,5 +1,6 @@
 
 https://www.kaggle.com/rhuebner/human-resources-data-set
+https://public.tableau.com/profile/morgane.berilhe.tuy#!/vizhome/HRproject/Story1?publish=yes
 
 Context
 HR data can be hard to come by, and HR professionals generally lag behind with respect to analytics and data visualization competency. Thus, Dr. Carla Patalano and I set out to create our own HR-related dataset, which is used in one of our graduate MSHRM courses called HR Metrics and Analytics, at New England College of Business. We created this data set ourselves. We use the data set to teach HR students how to use and analyze the data in Tableau Desktop - a data visualization tool that's easy to learn.
@@ -32,7 +33,6 @@ Engagement Survey Results, a floating-point number, range between 1 and 5.
 Special Project Count, integer, which is the number of special projects the employee worked on in the last year.
 Last Performance Review Date, date, to ensure that all employees are receiving timely reviews.
 Days Late in the Last 30 days, integer, as an attendance metric.
-Fields removed since last iteration
 
 Any derived fields such as AGE and DaysEmployed have been removed.
 Data Dictionary
